@@ -25,7 +25,7 @@ Code editor (VS Code)
 
 🛠️ Steps:
 1. Clone this repo or download the ZIP
-git clone https://github.com/your-username/railway-reservation-system.git
+git clone https://github.com/Sanjanadinesh23/Railway-management.git
 2. Place it in your XAMPP/WAMP htdocs folder
 For example:
 makefile
